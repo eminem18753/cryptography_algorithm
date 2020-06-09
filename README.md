@@ -14,7 +14,7 @@ python length_extension_attack.py length_extension_attack_query.txt length_exten
 7. md5_collision: <br />
 python md5_collision_good.py <br />
 python md5_collision_evil.py <br />
-->同樣的md5 hash，但是不同的輸出 <br /><br />
+->2個檔案有同樣的md5 hash，但是卻有不同的輸出 <br /><br />
 8. padding_oracle_attack: <br />
 python padding_oracle_attack.py padding_oracle_attack_cipher_text.hex padding_oracle_attack_output.txt <br /><br />
 9. mining_ps_and_qs: <br />
